@@ -16,9 +16,9 @@ I'm Amrutha V V , a web developer who loves to build beautiful, responsive, and 
 
 Here are some of the projects that I've worked on:
 
-- [Project 1](link): Short description of project
-- [Project 2](link): Short description of project
-- [Project 3](link): Short description of project
+- [Project 1](link): 
+- [Project 2](link):
+- [Project 3](link): 
 
 ## Experience
 
